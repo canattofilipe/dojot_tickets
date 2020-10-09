@@ -28,4 +28,4 @@ print(table55.year)
 print(table55.weekday)
 # 0
 
-# But, how to know what kaitai structure ?, there are others like TeAnsiContent2310 and TeAnsiContent2311.
+# But, how to know what kaitai structure to use?, there are others like TeAnsiContent2310 and TeAnsiContent2311.
