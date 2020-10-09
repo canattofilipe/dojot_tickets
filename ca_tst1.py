@@ -13,7 +13,7 @@ dataUri = 'dump_TE_binary_20201006-20201007.pickle'
 # deserializes dump
 data = pickle.load(open(dataUri, "rb"))
 
-# now I have a list, where each element of the list a sequence of bytes
+# now I have a list, where each element of the list is a sequence of byte
 print(type(data))
 # <class 'list'>
 
